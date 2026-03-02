@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="title_input">BMI Calculator</string>
+    <string name="title_result">BMI Result</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_height_cm">Height (cm)</string>
+    <string name="hint_weight_kg">Weight (kg)</string>
+    <string name="button_show_result">Show Result</string>
+    <string name="label_name_value">Name: %1$s</string>
+    <string name="label_age_value">Age: %1$d</string>
+    <string name="label_height_value">Height: %1$s cm</string>
+    <string name="label_weight_value">Weight: %1$s kg</string>
+    <string name="label_bmi">BMI</string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_valid_age">Enter a valid age</string>
+    <string name="error_valid_height">Enter a valid height in cm</string>
+    <string name="error_valid_weight">Enter a valid weight in kg</string>
+</resources>
