@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="import_device_contacts">Import Device Contacts</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="pick_photo_optional">Pick Photo (Optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="contact_saved">Contact saved</string>
+    <string name="contact_deleted">Contact deleted</string>
+    <string name="contacts_imported">Contacts imported from device</string>
+    <string name="permission_required">Contacts permission is required to load phone contacts.</string>
+    <string name="empty_name_phone">Name and phone are required.</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="no_contacts">No contacts yet. Add one or import from device.</string>
+    <string name="search_contacts">Search contacts</string>
+    <string name="filter_by">Filter by</string>
+    <string name="sort_order">Sort order</string>
+    <string name="filter_all">All</string>
+    <string name="filter_name">Name</string>
+    <string name="filter_phone">Phone</string>
+    <string name="sort_asc">A-Z</string>
+    <string name="sort_desc">Z-A</string>
+</resources>
